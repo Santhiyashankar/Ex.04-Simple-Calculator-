@@ -1,7 +1,7 @@
 # Ex04 Simple Calculator - React Project
 ## Date: 01-10-2025
-# Name: Mopuri Ankitha
-# Register Number:212223040117
+# Name: Santhiya S
+# Register Number:212223220098
 
 ## AIM
 To  develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
